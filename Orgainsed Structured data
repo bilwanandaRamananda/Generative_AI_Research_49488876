@@ -1,0 +1,35 @@
+Generative_AI_Research_49488876/
+├─ 00_admin/
+│  ├─ information_sheet.pdf
+│  ├─ ethics_approval.pdf
+│  └─ README.md
+├─ 01_literature/
+│  ├─ articles/
+│  ├─ books/
+│  ├─ news/
+│  └─ README.md
+├─ 02_quantitative/
+│  ├─ data_raw/              # NEVER edit raw data
+│  ├─ data_clean/            # cleaned CSV/XLSX
+│  ├─ scripts_python/        # .py
+│  ├─ analysis_notebooks/    # .ipynb
+│  └─ reports/               # PDF/Docx
+├─ 03_qualitative/
+│  ├─ transcripts/           # SENSITIVE
+│  ├─ protocols/
+│  ├─ consent_forms/         # HIGHLY SENSITIVE
+│  ├─ coding_frameworks/
+│  ├─ insights_report/
+│  └─ visualisations/
+├─ 04_drafts_reports/
+│  ├─ proposal_drafts/
+│  ├─ conference_papers/
+│  └─ final_reports/
+├─ 05_media/
+│  ├─ photos/
+│  ├─ audio/
+│  └─ video/
+├─ .gitignore
+├─ .gitattributes
+├─ README.md
+└─ Project_logbook.txt
